@@ -1,0 +1,8 @@
+{
+  "name" : "Demo_Page",
+  "version" : "0.0.1",
+  "description" : "It'sa project!",
+  "dependencies" : {
+    "mime" : "~1.2.7"
+  }
+}
